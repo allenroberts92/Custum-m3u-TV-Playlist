@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_description">Automatically looks for YouTube ad skip and ad close controls and taps them when available. This service is limited to the YouTube app.</string>
+</resources>
