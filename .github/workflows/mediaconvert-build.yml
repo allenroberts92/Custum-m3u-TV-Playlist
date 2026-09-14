@@ -3,6 +3,8 @@ name: Build MediaConvert APK
 on:
   push:
     branches: [ mediaconvert-build ]
+  pull_request:
+    branches: [ main ]
   workflow_dispatch:
 
 jobs:
